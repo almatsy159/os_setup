@@ -1,0 +1,5 @@
+{
+    "binaries":["preload","vlc"],
+    "curl_binaries":["chrome"],
+    "backup_location":["."]
+}
